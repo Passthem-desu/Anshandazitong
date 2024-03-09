@@ -1,0 +1,4 @@
+keyboard==0.13.5
+numpy==1.22.0
+PyAudio==0.2.14
+soundfile==0.12.1
